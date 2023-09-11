@@ -15,8 +15,7 @@ void main()
     scanf("%d",&DA);
     printf("Enter the TA\n");
     scanf("%d",&TA);
-
-    GROSS=SALARY+HAR+DA+TA;
+base salray=base salary+(base salray*HAR/100)+(base salray*DA/100)+(base salray*TA/100)
     printf("GROSS =%d",GROSS);
     
 
